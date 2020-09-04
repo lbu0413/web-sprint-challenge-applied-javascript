@@ -27,15 +27,16 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+    Documnet Object Model. You can manipulate HTML template with javascript in dev tools.
 
 2. What is an event?
-
+    a respone from the Dom that triggers javascript codes.
 3. What is an event listener?
-
+    a method we use to make events happen.
 4. Why would we convert a NodeList into an Array?
-
+    A NodeList is a collection of Dom nodes and that can't be used for javascript codes.
 5. What is a component?
-
+    They serve just like functions or classes in javascript 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
 ## Instructions
