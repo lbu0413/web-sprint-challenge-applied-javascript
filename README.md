@@ -36,7 +36,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 4. Why would we convert a NodeList into an Array?
     A NodeList is a collection of Dom nodes and that can't be used for javascript codes.
 5. What is a component?
-    They serve just like functions or classes in javascript 
+    They serve just like functions or classes in javascript and can be reused.
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
 ## Instructions
